@@ -7,8 +7,9 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
 
 
-Data download,extracted,organized,cleaned and sorted with Python and tableau pre
-Data Analyzed via Tableau
+Data download,extracted,organized,cleaned and sorted with Python and tableau prep.
+
+# Data Analyzed via Tableau:
 ![Citi-Bikes-s1](CITI%20BIKE%20DATA%20GENDER%20STORY.png)
 ![Citi-Bikes-s2](CITI%20BIKE%20DATA%20STATION%20STORY.png)
 ![Citi-Bikes-s3](CITI%20BIKE%20DATA%20BIKE%20USAGE%20STORY.png)
