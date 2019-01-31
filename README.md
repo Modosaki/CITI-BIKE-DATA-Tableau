@@ -9,3 +9,4 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 Data download,extracted,organized,cleaned and sorted with Python and tableau pre
 Data Analyzed via Tableau
+https://github.com/Modosaki/CITI-BIKE-DATA-Tableau/blob/master/CITI%20BIKE%20DATA%20GENDER%20STORY.png
